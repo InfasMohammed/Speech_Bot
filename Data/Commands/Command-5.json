@@ -1,0 +1,137 @@
+{
+"All_Questions":
+[
+"hi",
+"hello",
+"hi alpha",
+"hello alpha",
+"hey",
+"hay",
+"Hey man",
+"hi there",
+
+"how's it going",
+"how is it going",
+"what's new",
+"what is new",
+"What's going on",
+"What is going on",
+
+"how's everything",
+"how is everything",
+"How are things",
+"How's life",
+"How is life",
+
+"how is your day",
+"how's your day",
+"How's your day going",
+"How is your day going",
+
+"Good to see you",
+"Nice to see you",
+"It's been a while",
+"It is been a while",
+
+"Good morning", 
+"Good afternoon",
+"Good evening",
+
+"It's nice to meet you",
+"It is nice to meet you",
+"Pleased to meet you",
+"How have you been",
+"How do you do",
+"Are you OK",
+"Alright mate",
+
+"take care",
+"bye",
+"have a good one"
+
+
+],
+
+"greetings_basic_1":
+[
+"hi",
+"hello",
+"hi alpha",
+"hello alpha",
+"hey",
+"hay",
+"Hey man"
+],
+
+"greetings_basic_2":
+[
+"how's it going",
+"how is it going",
+"what's new",
+"what is new",
+"What's going on",
+"What is going on"
+],
+
+"greetings_basic_3":
+[
+"how's everything",
+"how is everything",
+"How are things",
+"How's life",
+"How is life"
+
+],
+
+"greetings_basic_4":
+[
+"how is your day",
+"how's your day",
+"How's your day going",
+"How is your day going"
+],
+
+"greetings_basic_5":
+[
+"Good to see you",
+"Nice to see you",
+"It's been a while",
+"It is been a while"
+
+],
+
+"greetings_basic_6":
+[
+"Good morning", 
+"Good afternoon",
+"Good evening"
+],
+
+"greetings_basic_7":
+[
+"It's nice to meet you",
+"It is nice to meet you",
+"Pleased to meet you"
+],
+
+"greetings_basic_8":
+[
+"How have you been",
+"How do you do"
+],
+
+"greetings_basic_9":
+[
+"Are you OK",
+"Alright mate"
+
+],
+
+"greetings_basic_10":
+[
+"take care",
+"bye",
+"have a good one"
+]
+
+}

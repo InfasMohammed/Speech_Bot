@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\JokerHacker\Anaconda3\envs\GR-Assistant\lib\site-packages\spyder\app\mainwindow.py", line 3284, in main
+    mainwindow = run_spyder(app, options, args)
+  File "C:\Users\JokerHacker\Anaconda3\envs\GR-Assistant\lib\site-packages\spyder\app\mainwindow.py", line 3139, in run_spyder
+    main.setup()
+  File "C:\Users\JokerHacker\Anaconda3\envs\GR-Assistant\lib\site-packages\spyder\app\mainwindow.py", line 724, in setup
+    icon=get_icon('winpython.svg'),
+  File "C:\Users\JokerHacker\Anaconda3\envs\GR-Assistant\lib\site-packages\spyder\utils\icon_manager.py", line 240, in get_icon
+    icon_path = get_image_path(name, default=None)
+  File "C:\Users\JokerHacker\Anaconda3\envs\GR-Assistant\lib\site-packages\spyder\config\base.py", line 251, in get_image_path
+    if osp.isfile(full_path):
+  File "C:\Users\JokerHacker\Anaconda3\envs\GR-Assistant\lib\genericpath.py", line 30, in isfile
+    st = os.stat(path)
+KeyboardInterrupt
